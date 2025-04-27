@@ -1,0 +1,8 @@
+{
+    
+    "typeDB": "mysql",
+    "host": "localhost", 
+    "dbName": "basedatosprueba", 
+    "userDataBase": "root", 
+    "password": ""
+}
